@@ -2,7 +2,7 @@
 
 An open-source developer platform for analyzing software dependencies — dependency graph construction, vulnerability/advisory analysis, and dependency blast-radius analysis, with an emphasis on evidence and explainability over opaque risk scores.
 
-Full project plan: [`docs/PROJECT_PLAN.md`](docs/PROJECT_PLAN.md).
+Full project plan: [`docs/PROJECT_PLAN.md`](docs/PROJECT_PLAN.md). Roadmap & phase breakdown: [`docs/ROADMAP.md`](docs/ROADMAP.md). Decision/learning log: [`docs/LEARNING_LOG.md`](docs/LEARNING_LOG.md).
 
 ## Status
 
